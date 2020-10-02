@@ -1,2 +1,2 @@
 # hello-world
-Coding - the start
+Hi. Wizprogram.
